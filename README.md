@@ -9,7 +9,7 @@ smtp-py-mailer is a Python application that allows users to send emails securely
 - Encrypts communication with SMTP server using SSL/TLS.
 - User-friendly GUI for entering email details such as sender, receiver, subject, body, etc.
 
-## Prerequisites
+## Requirements
 
 - Python 3.x
 - tkinter library (included in standard Python distribution)
